@@ -23,4 +23,10 @@ public class Basics1 {
 		System.out.println("Ha HA haaa....");
 		System.out.println("Hello beautiful world :)");
 	}
+	
+	public static void gitHubDemoUser2() {
+		System.out.println("User2 changed the code");
+		System.out.println("bla bla blaaa....");
+		System.out.println("Hello xxx world :)");
+	}	
 }
