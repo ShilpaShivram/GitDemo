@@ -17,4 +17,9 @@ public class Basics3 {
 	public void developBranchCode4() {
 		System.out.println("User1 main Develop branch code");
 	}
+	
+	
+	public void developBranchCode5() {
+		System.out.println("User2 main Develop branch code");
+	}
 }
