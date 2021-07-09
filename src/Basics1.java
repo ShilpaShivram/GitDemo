@@ -18,4 +18,9 @@ public class Basics1 {
 		System.out.println("Hello Bad World :(");
 	}
 
+	public static void gitHubDemo() {
+		System.out.println("User1 changed the code");
+		System.out.println("Ha HA haaa....");
+		System.out.println("Hello beautiful world :)");
+	}
 }
